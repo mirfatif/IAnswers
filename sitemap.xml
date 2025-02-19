@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_allow_internet_access_foreground_apps</loc>
+        <lastmod>2025-02-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://mirfatif.github.io/IAnswers/android_app_kill_flash_storage</loc>
         <lastmod>2023-09-13</lastmod>
         <changefreq>monthly</changefreq>
@@ -25,14 +31,56 @@
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_block_background_process_mobile_data_wifi_use</loc>
+        <lastmod>2025-02-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_block_certain_websites_domains</loc>
+        <lastmod>2025-02-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_block_internet_access_specific_apps</loc>
+        <lastmod>2025-02-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_dns_encryption_prevent_internet_activity_monitoring</loc>
+        <lastmod>2025-02-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://mirfatif.github.io/IAnswers/android_high_ram_usage</loc>
         <lastmod>2022-08-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_monitor_apps_internet_connection</loc>
+        <lastmod>2025-02-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
         <loc>https://mirfatif.github.io/IAnswers/android_permission_types</loc>
         <lastmod>2022-08-17</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_real_time_notifications_app_internet_access</loc>
+        <lastmod>2025-02-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mirfatif.github.io/IAnswers/android_track_block_specific_domains_ips</loc>
+        <lastmod>2025-02-19</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
